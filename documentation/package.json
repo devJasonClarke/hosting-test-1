@@ -6,8 +6,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore --fix src",
-    "format": "prettier .  --write",
-    "prepare": "husky install"
+    "format": "prettier .  --write"
   },
   "dependencies": {
     "vue": "^3.2.25"
