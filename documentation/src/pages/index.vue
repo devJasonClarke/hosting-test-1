@@ -1,7 +1,7 @@
 <template>
   <TheNav />
   <div>
-    <h1>Documentation</h1>
+    <h1>The Documentation</h1>
     <img src="@/assets/logo.png" alt="why are you running" />
     <h1>Welcome to the home view</h1>
     <router-link to="/about">about</router-link>
